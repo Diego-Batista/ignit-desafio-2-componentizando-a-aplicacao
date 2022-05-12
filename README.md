@@ -1,5 +1,3 @@
-# ignit-desafio-2-componentizando-a-aplicacao
-
 <h1 align="center">Projeto desafio 2 componentizando a aplicação </h1>
 
 ## Descrição do Projeto
